@@ -1,0 +1,5 @@
+# intentionally vulnerable/outdated packages (A06)
+Flask==0.12
+requests==2.18.0
+# Tooling for local testing (optional)
+gunicorn==19.7.1
