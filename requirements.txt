@@ -1,5 +1,5 @@
 # Intentionally old/vulnerable package versions
 Flask==0.12            # ancient vulnerable Flask
-PyYAML==3.13           # has known unsafe-load issues in older versions
+PyYAML==4.2b1           # has known unsafe-load issues in older versions
 requests==2.18.0       # example old requests
 gunicorn==19.7.1
